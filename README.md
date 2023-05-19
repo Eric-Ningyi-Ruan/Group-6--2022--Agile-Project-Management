@@ -42,11 +42,14 @@
 </tr>
 </table>
 <h3>Minutes</h3>
-| Agenda Item 1: |The initiation of the intelligent assistant based on the gpt4.0  |Presenter:|Xavier|
-
-|Agenda Item 1: |Presenter:| 
-|--|--|-
-|The initiation of a web site of the intelligent assistant based on the gpt4.0|Xavier  
+<table>
+<tr>
+<td>Agenda Item:</td><td>Presenter:</td> 
+</tr>
+<tr>
+<td>The initiation of a web site of the intelligent assistant based on the GPT 4.0</td><td>Xavier</td> 
+</tr>
+</table>
 <h4>Discussion:</h4>
 <p>The requirement of the prototype, what the assistant need to realize and the the target customers and why should we create it and how to create it( what instrument and technique to apply).</p>
 
@@ -63,10 +66,14 @@
 |Learn to use the technique  |everyone  |May 20th
 |Searching for relevant skills  |Lareina  |May 20th
 |Test the feasibility |Xavier Eric Twilight  |May 20th
-
-|Agenda Item 2: |Presenter:| 
-|--|--|-
-|The planning of the assistant|Xavier
+<table>
+<tr>
+<td>Agenda Item 2:</td><td>Presenter:</td> 
+</tr>
+<tr>
+<td>The planning of the assistant</td><td>Xavier</td> 
+</tr>
+</table>
 <h4>Discussion:</h4>
 <p>Are the all techniques available?</p>
 <h4>Conclusions:</h4>
@@ -77,11 +84,14 @@
 |Create the repository in git hub  |Everyone  |May 25th
 |The testing and training of the gpt4.0 |Xavier  |May 25th
 |The planning of the structure |Eric  |May 25th
-
-|Agenda Item 3: |Presenter:| 
-|---------|----------------------|-
-|The demo submission|Xavier
-
+<table>
+<tr>
+<td>Agenda Item 3:</td><td>Presenter:</td> 
+</tr>
+<tr>
+<td>The demo submission</td><td>Xavier</td> 
+</tr>
+</table>
 <h4>Discussion:</h4>
 <p>Is the demo can fullfil the requirement what we come up with at the beginning.</p>
 <h4>Conclusions:</h4>
