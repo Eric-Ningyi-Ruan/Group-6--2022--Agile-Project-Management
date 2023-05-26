@@ -63,7 +63,7 @@
 
 | Action items |Person responsible  |Deadline
 |:--|:--|:--|
-|Learn to use the technique  |everyone  |May 20th
+|Learn to use the technique  |Everyone  |May 20th
 |Searching for relevant skills  |Lareina  |May 20th
 |Test the feasibility |Xavier Eric Twilight  |May 20th
 <table>
