@@ -105,7 +105,6 @@
 <h3>Date of next meeting:</h3>
 <p>May 20th</p>
 
-
  
  <h1>Group Meeting Report - Iteration 2</h1>
 <h2>Notice of Meeting and Agenda</h2>
