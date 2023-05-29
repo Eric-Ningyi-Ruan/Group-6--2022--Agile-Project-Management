@@ -17,8 +17,8 @@
 		<td>1</td>
 		<td>[05-26-2023]</td>
 		<td>When the code was post on gitee the bug occured on the interface </td>
-		<td bgcolor="#FFCC00">Medium</td>
-		<td bgcolor="#00CC99">Low</td>
+		<td bgcolor="##FFCC00">Medium</td>
+		<td bgcolor="##00CC99">Low</td>
 		<td>Low</td>
 		<td>Lareina、Eric</td>
 		<td>review the code and debug</td>
@@ -29,8 +29,8 @@
 		<td>2</td>
 		<td>[05-28-2023]</td>
 		<td>The interface was wrong and the picture in the repositery didn't show off</td>
-		<td bgcolor="#FFCC00">Medium</td>
-		<td bgcolor="#00CC99">Low</td>
+		<td bgcolor="##FFCC00">Medium</td>
+		<td bgcolor="##00CC99">Low</td>
 		<td>Low</td>
 		<td>Lareina、Xavier</td>
 		<td>review the code and debug and repost the picture</td>
@@ -41,8 +41,8 @@
 		<td>2</td>
 		<td>[05-28-2023]</td>
 		<td>The trade model didn't work</td>
-		<td bgcolor="#FF6666">High</td>
-		<td bgcolor="#FF6666">High</td>
+		<td bgcolor="##FF6666">High</td>
+		<td bgcolor="##FF6666">High</td>
 		<td>High</td>
 		<td>Lareina</td>
 		<td>review the code and debug and check the server</td>
